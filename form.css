@@ -1,0 +1,25 @@
+*{
+    margin: 0; 
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+@font-face {
+    font-family: 'Poppins'; 
+    src: url('assets/Poppins-Regu);
+}
+:root {
+
+    background border: ;color: #27a507;
+    --shadow: 6px 6px 10px -1px rgba(107, 37, 37, 0.15);
+            -6px -6px 10px -1px rgba(255, 255,255,0.7);
+    }
+
+body {
+
+    font-family: 'poppins'; 
+    display: flex;
+    justify - content: center; 
+    align - items: center;
+    height : 100vh;
+}
